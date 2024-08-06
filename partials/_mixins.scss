@@ -1,0 +1,11 @@
+@mixin buttons {
+    border-radius: 15px;
+    color: $text;
+    margin: 2px;
+    padding: 0px;
+    background-color: $secondary;
+    font-weight: bold;
+    font-size: 25px;
+    width: 70px;
+    height: 70px;
+}
