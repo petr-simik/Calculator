@@ -1,6 +1,6 @@
 # Calculator
 
-## [Live Demo](https://qsoftin.github.io/Calculator/)
+## [Live Demo](https://petr-simik.github.io/Calculator/)
 
  Mini project from The Odin Project - Calculator
 
